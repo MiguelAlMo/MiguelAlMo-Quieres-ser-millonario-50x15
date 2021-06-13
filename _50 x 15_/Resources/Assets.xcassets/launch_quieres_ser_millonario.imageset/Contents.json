@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "launch_quieres_ser_millonario.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

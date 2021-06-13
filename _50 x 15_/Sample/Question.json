@@ -1,0 +1,272 @@
+[
+        {
+            "question":"¿Cómo se llama la Reina del Reino Unido?",
+            "options":[
+                "Isabel II",
+                "Sofia",
+                "Isabel I",
+                "Juana"
+            ],
+            "answer":"A:"
+        },
+        {
+            "question":"¿En qué continente está Ecuador?",
+            "options":[
+                "África",
+                "Europa",
+                "Asia",
+                "América"
+            ],
+            "answer":"D:"
+        },
+        {
+            "question":"¿Qué tipo de animal es la ballena?",
+            "options":[
+                "Pez",
+                "Mamífero",
+                "Cefalópodo",
+                "Reptil"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿Cómo se llama el director de la trilogía de El Señor de los Anillos?",
+            "options":[
+                "Alfonso Cuarón",
+                "G. del Toro",
+                "Peter Jackson",
+                "George Lucas"
+            ],
+            "answer":"C:"
+        },
+        {
+            "question":"¿Quién escribió El código Da Vinci?",
+            "options":[
+                "Ridley Scott",
+                "Michael Connelly",
+                "Dan Brown",
+                "Jo Nesbo"
+            ],
+            "answer":"C:"
+        },
+        {
+            "question":"¿Qué escritor afirmó no acordarse de haber escrito muchas de sus obras?",
+            "options":[
+                "Juri A. Olssen",
+                "Stephen King",
+                "Neil Gaiman",
+                "E. Allan Poe"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿Cuál fue la primera película de Disney?",
+            "options": [
+                "Blancanieves",
+                "Pinocho",
+                "Dumbo",
+                "Fantasía"
+            ],
+            "answer":"A:"
+        },
+        {
+            "question":"¿Qué nombre recibe concretamente la persona a quien beneficia un contrato de seguro?",
+            "options":[
+                "Asegurador",
+                "Beneficiario",
+                "Polizón",
+                "Segurata"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿Qué nombre recibe el tambor muy grande de orquestas y bandas que se toca con una maza?",
+            "options":[
+                "Tamboril",
+                "Pandereta",
+                "Cascabel",
+                "Bombo"
+            ],
+            "answer":"D:"
+        },
+        {
+            "question":"¿Qué calificativo se otorga a la persona que pronuncia confusamente las palabras?",
+            "options":[
+                "Locuaz",
+                "Trapajoso",
+                "Orador",
+                "Maestro"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿De qué estado norteamericano es capital Indianapolis?",
+            "options":[
+                "Indiana",
+                "Montana",
+                "Ohio",
+                "Louisiana"
+            ],
+            "answer":"A:"
+        },
+        {
+            "question":"¿Los 5 sabores primarios son dulce, amargo, ácido, salado y...?",
+            "options":[
+                "Delicioso",
+                "Picante",
+                "Suave",
+                "Umami"
+            ],
+            "answer":"D:"
+        },
+        {
+            "question":"¿Cuál es el lugar más frío de la tierra?",
+            "options":[
+                "El Polo Norte",
+                "La Antártida",
+                "El Polo Sur",
+                "Moscú"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":" ¿Quién escribió La Odisea?",
+            "options":[
+                "Rómulo",
+                "Homero",
+                "George Lucas",
+                "Platón"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":" ¿Cómo se llama la capital de Mongolia?",
+            "options":[
+                "Ulan Bator",
+                "Mongolia",
+                "Gansu",
+                "Astaná"
+            ],
+            "answer":"A:"
+        },
+        {
+            "question":"¿Cuál es el río más largo del mundo?",
+            "options":[
+                "El Nilo",
+                "Misisipi",
+                "Amazonas",
+                "Ebro"
+            ],
+            "answer":"C:"
+        },
+        {
+            "question":"¿Dónde originaron los juegos olímpicos?",
+            "options":[
+                "Italia",
+                "Grecia",
+                "Croacia",
+                "Finlandia"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿Qué colores contiene la bandera de Nigeria?",
+            "options":[
+                "blanco y verde",
+                "gris, azul y rojo",
+                "rojo, blanco",
+                "verde y amarillo"
+            ],
+            "answer":"A:"
+        },
+        {
+            "question":"¿Qué cantidad de huesos en el cuerpo humano?",
+            "options":[
+                "307",
+                "206",
+                "198",
+                "222"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿Quién es el autor de el Quijote?",
+            "options":[
+                "A. Machado",
+                "Lorca",
+                "Unamuno",
+                "M. de Cervantes"
+            ],
+            "answer":"D:"
+        },
+        {
+            "question":"¿Quién pintó “la última cena”?",
+            "options":[
+                "Picaso",
+                "Miguel Ángel",
+                "L. da Vinci",
+                "C. Monet"
+            ],
+            "answer":"C:"
+        },
+        {
+            "question":"¿Dónde originaron los juegos olímpicos?",
+            "options":[
+                "Italia",
+                "Grecia",
+                "Croacia",
+                "Finlandia"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿En qué país se encuentra la torre de Pisa?",
+            "options":[
+                "Francia",
+                "Italia",
+                "Croacia",
+                "España"
+            ],
+            "answer":"B:"
+        },
+        {
+            "question":"¿Cuál es el océano más grande?",
+            "options":[
+                "Índico",
+                "Atlántico",
+                "Pacífico",
+                "Antártico"
+            ],
+            "answer":"C:"
+        },
+        {
+            "question":"¿Cuál es el disco más vendido de la historia?",
+            "options":[
+                "The Beatles",
+                "Dirty Dancing",
+                "Nevermind",
+                "Thriller"
+            ],
+            "answer":"D:"
+        },
+        {
+            "question":"¿Qué producto cultiva más Guatemala?",
+            "options":[
+                "Café",
+                "Trigo",
+                "Plátano",
+                "Marihuana"
+            ],
+            "answer":"A:"
+        },
+        {
+            "question":"¿Quién es el famoso Rey de Rock en los Estados Unidos?",
+            "options":[
+                "Michael Jackson",
+                "Elvis Presley",
+                "John Lennon",
+                "James Brown"
+            ],
+            "answer":"B:"
+        }
+]
