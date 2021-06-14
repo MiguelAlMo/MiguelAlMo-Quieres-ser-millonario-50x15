@@ -16,13 +16,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_quieres_ser_millonario" translatesAutoresizingMaskIntoConstraints="NO" id="Fwd-Ge-XKl">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Home_Start" translatesAutoresizingMaskIntoConstraints="NO" id="Fwd-Ge-XKl">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wsy-fg-aDF">
-                                <rect key="frame" x="124.5" y="572" width="165" height="60"/>
+                                <rect key="frame" x="117" y="632" width="180" height="60"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="165" id="evK-y9-oYx"/>
+                                    <constraint firstAttribute="width" constant="180" id="evK-y9-oYx"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                 <state key="normal" title="Empezar">
@@ -37,7 +37,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="Fwd-Ge-XKl" firstAttribute="top" secondItem="Jy6-uB-75X" secondAttribute="top" id="GH7-sG-e06"/>
-                            <constraint firstItem="438-Oo-mZJ" firstAttribute="bottom" secondItem="wsy-fg-aDF" secondAttribute="bottom" constant="230" id="IuN-82-huU"/>
+                            <constraint firstItem="438-Oo-mZJ" firstAttribute="bottom" secondItem="wsy-fg-aDF" secondAttribute="bottom" constant="170" id="IuN-82-huU"/>
                             <constraint firstItem="Fwd-Ge-XKl" firstAttribute="leading" secondItem="438-Oo-mZJ" secondAttribute="leading" id="M6H-KT-cjZ"/>
                             <constraint firstItem="Fwd-Ge-XKl" firstAttribute="trailing" secondItem="438-Oo-mZJ" secondAttribute="trailing" id="Odw-Tj-ECT"/>
                             <constraint firstAttribute="bottom" secondItem="Fwd-Ge-XKl" secondAttribute="bottom" id="TwT-AS-RPG"/>
@@ -491,8 +491,8 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Home_Start" width="363" height="497"/>
         <image name="Milonario" width="326" height="641"/>
-        <image name="launch_quieres_ser_millonario" width="471" height="534"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
